@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Compatible with Leaflet 0.7 */
 .leaflet-control-locate a {
   font-size: 1.4em;
@@ -9,4 +10,17 @@
 }
 .leaflet-control-locate.active.following a {
   color: #FC8428;
+=======
+/* Compatible with Leaflet 0.7 */
+.leaflet-control-locate a {
+  font-size: 1.4em;
+  color: #444;
+  cursor: pointer;
+}
+.leaflet-control-locate.active a {
+  color: #2074B6;
+}
+.leaflet-control-locate.active.following a {
+  color: #FC8428;
+>>>>>>> e854a0e1d078f16e921a24a3e201c203befc9c4a
 }
